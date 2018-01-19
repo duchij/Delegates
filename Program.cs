@@ -10,6 +10,10 @@ namespace Delegates
     {
         static void Main(string[] args)
         {
+            Stroj[] str =  { new Stroj("miesacka"), new Stroj("mixer"), new Stroj("vysavac") };
+            
+            Console.ReadLine();
+
         }
     }
 }
